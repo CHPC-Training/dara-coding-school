@@ -1,5 +1,11 @@
 # Overview
 
+## Table of Contents
+
+- [Timetable](https://github.com/CHPC-Training/dara-coding-school/blob/main/0.%20timetable.md)
+- [Overview](#overview)
+  - [Week 1](#week-1)
+
 ## Week 1:
 
 The first week of the CSS focuses on an introduction to the Python programming language through data science principles with radio astronomy focus. This allow students new to Python an easier transition since we start with performing simple tasks using Excel spreadsheets to doing the same and more tasks in Python.
