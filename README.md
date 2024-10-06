@@ -3,9 +3,15 @@
 ## Table of Contents
 
 - [Overview](#overview)
-<!--  - [Week 1](#week-1) -->
 - [Zoom & Slack Links](https://github.com/CHPC-Training/dara-coding-school/blob/main/content/1.%20zoom_and_slack_links.md)
-- [1. Python Intro](https://github.com/CHPC-Training/dara-coding-school/blob/main/content/2.%20Python_Intro.md)
+- [Python Intro](https://github.com/CHPC-Training/dara-coding-school/blob/main/content/2.%20Python_Intro.md)
+- [Excel to Python](https://github.com/CHPC-Training/dara-coding-school/blob/main/content/3.%20Excel%20to%20Python.md)
+- [ETL Part 1](https://github.com/CHPC-Training/dara-coding-school/blob/main/content/4.%20ETL_Part_1.md)
+- [ETL Part 2](https://github.com/CHPC-Training/dara-coding-school/blob/main/content/5.%20ETL_Part_2.md)
+- [EDA](https://github.com/CHPC-Training/dara-coding-school/blob/main/content/6.%20EDA.md)
+- [JupyterLab](https://github.com/CHPC-Training/dara-coding-school/blob/main/content/7.%20JupyterLab.md)
+- [AstroPy](https://github.com/CHPC-Training/dara-coding-school/blob/main/content/8.%20Astropy.md)
+- [Linux & Bash Intro](https://github.com/CHPC-Training/dara-coding-school/blob/main/content/9.%20Linux_Bash_Intro.md)
 
  
 ## Timetable
