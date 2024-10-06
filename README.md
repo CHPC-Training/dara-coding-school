@@ -3,8 +3,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Week 1](#week-1)
-  - [Python](#python)
+<!--  - [Week 1](#week-1) -->
 - [Zoom & Slack Links](https://github.com/CHPC-Training/dara-coding-school/blob/main/content/1.%20zoom_and_slack_links.md)
 - [1. Python Intro](https://github.com/CHPC-Training/dara-coding-school/blob/main/content/2.%20Python_Intro.md)
 
